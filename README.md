@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur **Application mobile**  
 - 🌱 J'apprends actuellement **Spring Boot, Android**  
-- 👯 Je cherche à collaborer sur **Projets de développement Web**  
+- 👯 Je cherche à collaborer sur **Projets de développement Web et mobile**  
 - 🤝 Je recherche de l'aide pour **Développement full-stack avec Angular et Spring Boot**  
 - 📫 Comment me contacter : **hajarelkouni1010@gmail.com**
 
