@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Hajar EL KOUNI</h1>
 <h3 align="center">Développeuse full stack passionnée</h3>
 
-- 🔭 Je travaille actuellement sur **Application mobile**
+- 🔭 Je travaille actuellement sur **Application web**
 - 🌱 J'apprends actuellement **Spring Boot, Android**
 - 👯 Je cherche à collaborer sur **Projets de développement Web**
 - 🤝 Je recherche de l'aide pour **Développement full-stack avec Angular et Spring Boot**
