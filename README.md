@@ -9,7 +9,7 @@
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/hajar-el-kouni" target="blank">
+  <a href="https://linkedin.com/in/hajar-el-kouni-382926283" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hajar-el-kouni" height="30" width="40" />
   </a>
 </p>
