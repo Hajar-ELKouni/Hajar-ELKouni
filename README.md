@@ -5,7 +5,7 @@
 - 🌱 J'apprends actuellement **Spring Boot, Android**
 - 👯 Je cherche à collaborer sur **Projets de développement Web**
 - 🤝 Je recherche de l'aide pour **Développement full-stack avec Angular et Spring Boot**
-- 📫 Comment me contacter : **hajarelkouni1010@gmail.com**
+- 📫 Comment me contacter : **hajar.elkouni@etu.uae.ac.ma**
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
