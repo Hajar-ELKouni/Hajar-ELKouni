@@ -2,9 +2,9 @@
 <h3 align="center">Développeuse full stack passionnée</h3>
 
 - 🔭 Je travaille actuellement sur **Application web**
-- 🌱 J'apprends actuellement **Spring Boot, Android**
+- 🌱 J'apprends actuellement **Spring Boot, React**
 - 👯 Je cherche à collaborer sur **Projets de développement Web**
-- 🤝 Je recherche de l'aide pour **Développement full-stack avec Angular et Spring Boot**
+- 🤝 Je recherche de l'aide pour **Développement full-stack avec React et Spring Boot**
 - 📫 Comment me contacter : **hajar.elkouni@etu.uae.ac.ma**
 
 <h3 align="left">Contactez-moi :</h3>
